@@ -1,7 +1,7 @@
 # SATA: Semantic-Aware Motion Encoding for Topology-Agnostic Character Animation
 
 [![Project Page](https://img.shields.io/badge/Project-Page-blue)](https://zzysteve.github.io/project_pages/sata.html)
-[![arXiv](https://img.shields.io/badge/arXiv-coming%20soon-b31b1b)](https://arxiv.org/abs/2605.27055)
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b)](https://arxiv.org/abs/2605.27055)
 [![Code](https://img.shields.io/badge/Code-GitHub-black)](https://github.com/zzysteve/SATA)
 
 Official repository for **Semantic-Aware Motion Encoding for Topology-Agnostic Character Animation**.
