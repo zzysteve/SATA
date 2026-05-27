@@ -1,7 +1,7 @@
 # SATA: Semantic-Aware Motion Encoding for Topology-Agnostic Character Animation
 
 [![Project Page](https://img.shields.io/badge/Project-Page-blue)](https://zzysteve.github.io/project_pages/sata.html)
-[![arXiv](https://img.shields.io/badge/arXiv-coming%20soon-b31b1b)](https://arxiv.org/abs/XXXX.XXXXX)
+[![arXiv](https://img.shields.io/badge/arXiv-coming%20soon-b31b1b)](https://arxiv.org/abs/2605.27055)
 [![Code](https://img.shields.io/badge/Code-GitHub-black)](https://github.com/zzysteve/SATA)
 
 Official repository for **Semantic-Aware Motion Encoding for Topology-Agnostic Character Animation**.
@@ -13,7 +13,7 @@ We are actively working on releasing the code. Stay tuned :)
 ## Links
 
 - [Project page](https://zzysteve.github.io/project_pages/sata.html)
-- [Paper](https://arxiv.org/abs/XXXX.XXXXX) (coming soon)
+- [Paper](https://arxiv.org/abs/2605.27055)
 
 ## Current Status
 
@@ -29,7 +29,16 @@ This repository is being prepared for public release. The code is currently unde
 
 ## Citation
 
-The citation will be updated after the paper is available on arXiv.
+```
+@inproceedings{zhang2026sata,
+  title     = {Semantic-Aware Motion Encoding for Topology-Agnostic Character Animation},
+  author    = {Zongye Zhang and Yuzhuo Cui and Qingjie Liu and Yunhong Wang},
+  booktitle = {Proceedings of the International Conference on Machine Learning},
+  year      = {2026},
+  note      = {To appear. arXiv:2605.27055},
+  url       = {https://arxiv.org/abs/2605.27055}, 
+}
+```
 
 ## Contact
 
